@@ -37,4 +37,4 @@
 
 ## 3.运行结果
 
-![Screenshot_2022-05-05-16-01-56-274_org.tensorflow.lite.examples.classification](\Project3.assets\Screenshot_2022-05-05-16-01-56-274_org.tensorflow.lite.examples.classification-16517378583211.jpg)
+![Screenshot_2022-05-05-16-01-56-274_org.tensorflow.lite.examples.classification](Project3.assets/Screenshot_2022-05-05-16-01-56-274_org.tensorflow.lite.examples.classification-16517378583211.jpg)
